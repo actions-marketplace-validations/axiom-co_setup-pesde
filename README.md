@@ -39,7 +39,7 @@ Whether or not to cache the Pesde install and packages.\
 **Default:** `false`
 
 ### `token`
-The security token used for publishing to the Pesde marketplace.\
+The security token used for publishing to the Pesde marketplace.
 
 ## Forks
 
